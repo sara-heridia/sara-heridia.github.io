@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   PhD Candidate, Department of Political Science, Emory University
 twitter_username: sjheridia
 github_username: sara-heridia
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
