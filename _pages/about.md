@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+layout: splash
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-
+feature_row:
+  - image_path: /assets/images/bio-photo-SJH.jpg
+  - 
 **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />
 
 My research focuses on judicial politics, bureaucratic politics, and immigration law and policy. <br />
@@ -20,3 +23,13 @@ The first paper from this research, "Finding Echoes: Judicial Empathy Among Judg
 I am also committed to building collaborative research communities. I am the sole organizer for the law and courts working group at Emory, I am a member of Jeffrey Staton's Immigration Law Lab, and I am a founding member of the Women in Political Science at Emory (WIPS-E) group. <br />
 
 Prior to joining Emory University, I received my B.A. in Political Science from the Trinity University in 2020, where I received the Heart of Trinity Student Service Award for my impact on the campus body. I am an alum of the McNair Scholars Program, which prepares underrepresented individuals to enter graduate education. <br />
+
+---
+
+# url: "/about/"
+    # btn_class: "btn--primary"
+    # btn_label: "Explore my academic journey and research endeavors"    
+
+<!-- {% include feature_row id="intro" type="center" %} -->
+
+{% include feature_row id="feature_row" type="left" %}
