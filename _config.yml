@@ -79,15 +79,9 @@ author:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-0270-6811"
 
-img {
-    max-width: 250px;
-    border-radius: 60%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
+image:
+  default_width: 1000
+  default_height: 1000
 
 footer:
   links:
