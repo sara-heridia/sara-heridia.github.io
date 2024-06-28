@@ -80,8 +80,8 @@ author:
       url: "https://orcid.org/0000-0002-0270-6811"
 
 image:
-  default_width: 1000
-  default_height: 1000
+  default_width: 2000
+  default_height: 2000
 
 footer:
   links:
