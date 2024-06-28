@@ -15,6 +15,6 @@ My dissertation research explores how institutional contexts influence the relat
 
 The first paper from this research, "Finding Echoes: Judicial Empathy Among Judges with Family Immigration Histories," won the 2024 APSA Law and Courts Best Graduate Student Paper Award.
 
-I am also committed to building collaborative research communities. I am the sole organizer for the law and courts working group at Emory, and I am a member of Jeffrey Staton's Immigration Law Lab.
+I am also committed to building collaborative research communities. I am the sole organizer for the law and courts working group at Emory, I am a member of Jeffrey Staton's Immigration Law Lab, and I am a founding member of the Women in Political Science at Emory (WIPS-E) group.
 
 Prior to joining Emory University, I received my B.A. in Political Science from the Trinity University in 2020, where I received the Heart of Trinity Student Service Award for my impact on the campus body. I am an alum of the McNair Scholars Program, which prepares underrepresented individuals to enter graduate education.
