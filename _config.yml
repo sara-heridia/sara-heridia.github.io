@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 # Google Analytics
-# google_analytics: G-4Z07P2MHWT
+ google_analytics: G-4Z07P2MHWT
 
 
 author:
