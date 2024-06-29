@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ## Working Papers
--   **Sara Heridia**. "Finding Empathy: Judicial Empathy Among Judges with Family Immigration Histories. [Download paper](https://www.dropbox.com/scl/fi/64cunrgjiels8up0qmsdf/JMP_Summer2024.pdf?rlkey=quernulyf9o016iu0lsikb1ke&st=0u66xna0&dl=0)).
+-   **Sara Heridia**. "Finding Empathy: Judicial Empathy Among Judges with Family Immigration Histories." [Download paper](https://www.dropbox.com/scl/fi/64cunrgjiels8up0qmsdf/JMP_Summer2024.pdf?rlkey=quernulyf9o016iu0lsikb1ke&st=0u66xna0&dl=0)).
     -   <details>
 
         <summary>Abstract:</summary>
@@ -13,7 +13,7 @@ title: "Research"
 
         </details>
 
--   Alexander Bolton and **Sara Heridia**. "How Bureaucracies Circumvent Merit Processes to Hire Ideologically Congruous Judges and Restrain Independence.
+-   Alexander Bolton and **Sara Heridia**. "How Bureaucracies Circumvent Merit Processes to Hire Ideologically Congruous Judges and Restrain Independence."
     -   <details>
 
         <summary>Abstract:</summary>
