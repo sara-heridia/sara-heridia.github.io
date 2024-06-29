@@ -56,6 +56,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Google Analytics
+# google_analytics: G-4Z07P2MHWT
+
+
 author:
   name   : "Sara Heridia"
   avatar : "/assets/images/bio-photo-SJH.jpg"
@@ -118,6 +122,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Google Analytics
-google_analytics: G-4Z07P2MHWT
