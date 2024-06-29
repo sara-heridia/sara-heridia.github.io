@@ -13,7 +13,7 @@ title: "Research"
 
         </details>
 
--   Alexander Bolton and **Sara Heridia**. "How Bureaucracies Circumvent Merit Processes to Hire Ideologically Congruous Judges and Restrain Independence. #[Download paper]
+-   Alexander Bolton and **Sara Heridia**. "How Bureaucracies Circumvent Merit Processes to Hire Ideologically Congruous Judges and Restrain Independence.
     -   <details>
 
         <summary>Abstract:</summary>
