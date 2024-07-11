@@ -19,4 +19,4 @@ The first paper from this research, "Finding Echoes: Judicial Empathy Among Judg
 
 I am also committed to building collaborative research communities. I am the sole organizer for the law and courts working group at Emory, I am a member of Jeffrey Staton's Immigration Law Lab, and I am a founding member of the Women in Political Science at Emory (WIPS-E) group. <br />
 
-Prior to joining Emory University, I received my B.A. in Political Science from the Trinity University in 2020, where I received the Heart of Trinity Student Service Award for my impact on the campus body. I am an alum of the McNair Scholars Program, which prepares underrepresented individuals to enter graduate education. <br />
+Prior to joining Emory University, I received my B.A. in Political Science from Trinity University in 2020, where I received the Heart of Trinity Student Service Award for my impact on the campus body. I am an alum of the McNair Scholars Program, which prepares underrepresented individuals to enter graduate education. <br />
