@@ -23,7 +23,7 @@ title: "Research"
         </details>
 
 -   **Sara Heridia**. "Loyalty, Competency, and Diversity: Judicial Selection of U.S. Immigration Judges."
-      -   <details>
+    -   <details>
 
         <summary>Abstract:</summary>
 
@@ -32,10 +32,12 @@ title: "Research"
         </details>
 
 -   **Sara Heridia**. "Race, Immigration, and Judicial Behavior."
-      -   <details>
+    -   <details>
 
         <summary>Abstract:</summary>
 
         Immigration law and policy has historically shaped the development of racial categories. These developments led to the elevation of certain racial groups over others and formations of more restrictive immigrant attitudes, which can lead to differences in behaviors. While research in judicial politics highlights how judges who are non-white and have family immigration histories engage in different decision-making patterns, these identities are treated as separable. The intersection of these two important identities may provide an alternative approach for evaluating the effects of diversity in judicial contexts. I draw from different theoretical perspectives to posit that judges of color who have immigrants backgrounds have a greater incentive compared to white non-immigrants and immigrants to make pro-immigrant decisions. Using deportation proceedings data from immigration courts, I explore the relationship between racial diversity and immigrant diversity among judges. In contrast to my expectations, I find that immigrant backgrounds either have no influence on decision-making behaviors of judges or they lead to adverse outcomes. These findings highlight the need to continue understanding the immigrant experience in judicial politics and assessing identities not in isolation but intersectionally.
+
+        </details>
 
         </details>
