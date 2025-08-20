@@ -4,4 +4,4 @@ title: "CV"
 ---
 
 
-You can find a copy of my CV [here](https://www.dropbox.com/scl/fi/qr6j5k1glcqcienbetkzz/CV.pdf?rlkey=l7ugbsqndh1m27dghyx72x46k&st=c6h6igxn&dl=0).
+You can find a copy of my CV [here](https://www.dropbox.com/scl/fi/negl8qqbm3cg0h68ehwwm/CV-August2025.pdf?rlkey=burcb6ps3jb0ofo2fh2lcmoxd&st=g6rqe3xq&dl=0).
