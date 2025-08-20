@@ -16,7 +16,7 @@ My dissertation research explores how institutional contexts influence the relat
 
 My research has won the 2024 APSA Law and Courts Best Graduate Student Paper Award and the 2025 SPSA Pi Sigma Alpha/Malcolm Jewell Best Graduate Student Paper Award. <br />
 
-I am also committed to building collaborative research communities. I am the sole organizer for the law and courts working group at Emory, I am a member of Jeffrey Staton's Immigration Law Lab, and I am a founding member of the Women in Political Science at Emory (WIPS-E) group. <br />
+I am also committed to building collaborative research communities. I was the sole organizer for the law and courts working group at Emory, I am a member of Jeffrey Staton's Immigration Law Lab, and I am a founding member of the Women in Political Science at Emory (WIPS-E) group. Socially, I am known for organizing a department soccer team for the 2023-2024 academic year and hosting many game nights. <br />
 
 Prior to joining Emory University, I received my B.A. in Political Science from Trinity University in 2020, where I received the Heart of Trinity Student Service Award for my impact on the campus body. I am an alum of the McNair Scholars Program, which prepares underrepresented individuals to enter graduate education. <br />
    
