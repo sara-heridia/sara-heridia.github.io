@@ -31,7 +31,7 @@ title: "Research"
 
         </details>
 
-    -   **Sara Heridia**. "Race, Immigration, and Judicial Behavior."
+-   **Sara Heridia**. "Race, Immigration, and Judicial Behavior."
       -   <details>
 
         <summary>Abstract:</summary>
