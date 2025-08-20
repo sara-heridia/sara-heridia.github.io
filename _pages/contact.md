@@ -13,4 +13,4 @@ Tarbutton Hall, Room 327 \\
 Atlanta, GA, 30322
 
 ## Soccer Team Photo!
-![Photo from the first soccer game!](assets/images/F8xWUCAXwAAjigd.jpg)
+![Photo from the first soccer game!](/assets/images/F8xWUCAXwAAjigd.jpg)
