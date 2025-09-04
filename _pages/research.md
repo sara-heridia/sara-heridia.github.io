@@ -13,7 +13,7 @@ title: "Research"
 
         </details>
 
--   Alexander Bolton and **Sara Heridia**. "How Bureaucracies Circumvent Merit Processes to Hire Ideologically Congruous Judges and Restrain Independence." (_under review_) [Download paper](https://www.dropbox.com/scl/fi/jo31vdec5lhcn3ljoh1an/BoltonHeridia-August2025.pdf?rlkey=jptat9xpko242157hzyt4qka2&st=o52kmjc4&dl=0).
+-   Alexander Bolton and **Sara Heridia**. "Political Control Through Hiring: Evidence from U.S. Administrative Law Judges." (_under review_) [Download paper](https://www.dropbox.com/scl/fi/yjp1emk5t4t74ab8i4t5p/BoltonHeridia-Sept2025.pdf?rlkey=om6nytp0o5476clqicocmnzg4&st=xlsx2xia&dl=0). [Download appendix](https://www.dropbox.com/scl/fi/g2oo70eo0nlukneim212x/JOP_appendix.pdf?rlkey=37cmfjmwiajis8k6jmqxpapu0&st=8bqwqpa8&dl=0).
     -   <details>
 
         <summary>Abstract:</summary>
@@ -37,7 +37,5 @@ title: "Research"
         <summary>Abstract:</summary>
 
         Immigration law and policy has historically shaped the development of racial categories. These developments led to the elevation of certain racial groups over others and formations of more restrictive immigrant attitudes, which can lead to differences in behaviors. While research in judicial politics highlights how judges who are non-white and have family immigration histories engage in different decision-making patterns, these identities are treated as separable. The intersection of these two important identities may provide an alternative approach for evaluating the effects of diversity in judicial contexts. I draw from different theoretical perspectives to posit that judges of color who have immigrants backgrounds have a greater incentive compared to white non-immigrants and immigrants to make pro-immigrant decisions. Using deportation proceedings data from immigration courts, I explore the relationship between racial diversity and immigrant diversity among judges. In contrast to my expectations, I find that immigrant backgrounds either have no influence on decision-making behaviors of judges or they lead to adverse outcomes. These findings highlight the need to continue understanding the immigrant experience in judicial politics and assessing identities not in isolation but intersectionally.
-
-        </details>
 
         </details>
