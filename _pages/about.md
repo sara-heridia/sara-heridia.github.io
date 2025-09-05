@@ -9,7 +9,7 @@ redirect_from:
 ---
 
     
-**Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />
+**Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). I am on the 2025–26 academic job market. <br />
 
 My research focuses on judicial politics, bureaucratic politics, immigration law and policy, and political institutions. <br />
 
