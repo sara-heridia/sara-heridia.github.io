@@ -10,9 +10,9 @@ feature_row:
 
   **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). I am on the 2025–26 academic job market. <br />
 
-My research focuses on judicial politics, bureaucratic politics, and immigration law and policy. <br />
+My research focuses on American politics, institutions, judicial politics, bureaucratic politics, and immigration law and policy. <br />
 
-My dissertation research explores how institutional contexts influence the relationship between judicial identities and judicial decision-making. I specifically consider how judges with family histories of immigration make decisions within the immigration court system, and how the hierarchial structures of this court can limit judges' abilities to extrapolate their knowledge from their experiences into their interpretations of case facts and relevant law. I also consider how the decisions of judges with immigration backgrounds are going to differ based on the racial identity of the judge. I finally consider how the institutional context of this court both encourages individuals with immigrant backgrounds to apply for a judgeship and influences which kinds of individuals get hired. <br />
+My dissertation research explores how institutional contexts influence the relationship between identities and judicial and bureaucratic decision-making. I specifically consider how judges with family histories of immigration make decisions within the immigration court system, and how the hierarchial structures of this court can limit judges' abilities to extrapolate their knowledge from their experiences into their interpretations of case facts and relevant law. I also consider how the decisions of judges with immigration backgrounds are going to differ based on the racial identity of the judge. I finally consider how the institutional context of this court both encourages individuals with immigrant backgrounds to apply for a judgeship and influences which kinds of individuals get hired. <br />
 
 My research has won the 2024 APSA Law and Courts Best Graduate Student Paper Award and the 2025 SPSA Pi Sigma Alpha/Malcolm Jewell Best Graduate Student Paper Award. <br />
 
