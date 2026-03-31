@@ -22,6 +22,15 @@ title: "Research"
 
         </details>
 
+-   **Sara Heridia** and Matthew Martin. "When Experience Meets Environment: Professional Backgrounds, Court Composition, and Decision-Making in Immigration Court." [Download paper](https://mattjmartin.com/research/works-in-progress/heridia-weme/weme.pdf).
+    -   <details>
+
+        <summary>Abstract:</summary>
+
+        Research on judicial behavior has long recognized that professional backgrounds shape decision-making, but often treats these effects as uniform across institutional contexts. Focusing on U.S. immigration courts, we argue that understanding how professional experience influences judges requires attention to the specificity of prior socialization and the courts where judges currently sit. Analyzing more than 500,000 decisions by 502 immigration judges from 2015–2018, we disaggregate backgrounds by domain and examine how court composition moderates individual effects. Immigration-specific experience matters: former ICE attorneys grant relief at lower rates than other prosecutors; nonprofit immigration defense attorneys grant at higher rates than other defense attorneys. These background effects, however, are conditional on context — they are most pronounced in professionally heterogeneous courts and attenuate in prosecutor-dominated courts, where local norms absorb or suppress prior socialization. Professional background shapes judicial heuristics, but institutional environment determines whether those heuristics distinguish judges from their peers. 
+
+        </details>
+
 -   **Sara Heridia**. "Loyalty, Competency, and Diversity: Judicial Selection of U.S. Immigration Judges."
     -   <details>
 
