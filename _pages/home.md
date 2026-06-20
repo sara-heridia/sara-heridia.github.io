@@ -8,7 +8,7 @@ classes: wide
 feature_row:
   - image_path: /assets/images/bio-photo-SJH.jpg
 
- **Welcome!** <br /> <br /> I am an incoming Assistant Professor in the Department of Political Science at Louisiana State University (Fall 2026). I received my Ph.D. in Political Science from Emory University [Emory University](http://polisci.emory.edu/home/index.html). <br />
+ **Welcome!** <br /> <br /> I am an incoming Assistant Professor in the Department of Political Science at Louisiana State University (Fall 2026). I received my Ph.D. in Political Science from [Emory University](http://polisci.emory.edu/home/index.html). <br />
 
 My research focuses on judicial politics, bureaucratic politics, immigration law and policy, and political institutions. <br />
 
